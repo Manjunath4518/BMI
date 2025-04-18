@@ -20,5 +20,5 @@ This is a simple web application built using **Python** and **Flask** that calcu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bmi-calculator.git
+   git clone https://github.com/Manjunath4518/BMI.git
    cd bmi-calculator
